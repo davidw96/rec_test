@@ -136,7 +136,7 @@ pages:
       stimuli:
           C1: configs/resources/audio/width/7.1.4/7.1.4_fever_allrad.wav
           C2: configs/resources/audio/width/7.1.4/7.1.4_fever_DTS.wav
-          C3: configs/resources/audio/width/7.1.4/7.1.4_fever_fever.wav
+          C3: configs/resources/audio/width/7.1.4/7.1.4_fever_harpex.wav
     - type: mushra
       id: spatImpCube1
       name: LISTENER ENVELOPMENT - CUBE LAYOUT
