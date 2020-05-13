@@ -38,7 +38,7 @@ pages:
       name: EXTERNALISATION - CUBE LAYOUT
       content: Please rate the test files from 0-100 on how similar the externalisation of the track is to the available reference.
       showWaveform: true
-      enableLooping: true 
+      enableLooping: true
       reference: configs/resources/audio/externalisation/marsh_ref.wav 
       createAnchor35: false
       createAnchor70: false
@@ -52,6 +52,19 @@ pages:
       content: Please rate the test files from 0-100 on how similar the externalisation of the track is to the available reference.
       showWaveform: true
       enableLooping: true 
+      reference: configs/resources/audio/externalisation/opera_ref.wav 
+      createAnchor35: false
+      createAnchor70: false
+      stimuli:
+          C1: configs/resources/audio/externalisation/cube/opera_allrad.wav 
+          C2: configs/resources/audio/externalisation/cube/opera_DTS.wav 
+          C3: configs/resources/audio/externalisation/cube/opera_Harpex.wav
+    - type: mushra
+      id: distCinema1
+      name: EXTERNALISATION - 7.1.4 LAYOUT
+      content: Please rate the test files from 0-100 on how similar the externalisation of the track is to the available reference.
+      showWaveform: true
+      enableLooping: true 
       reference: configs/resources/audio/externalisation/marsh_ref.wav 
       createAnchor35: false
       createAnchor70: false
@@ -60,7 +73,7 @@ pages:
           C2: configs/resources/audio/externalisation/7.1.4/7.1.4_marsh_DTS.wav 
           C3: configs/resources/audio/externalisation/7.1.4/7.1.4_marsh_harpex.wav
     - type: mushra
-      id: distCinema1
+      id: distCinema2
       name: EXTERNALISATION - 7.1.4 LAYOUT
       content: Please rate the test files from 0-100 on how similar the externalisation of the track is to the available reference.
       showWaveform: true
@@ -72,19 +85,6 @@ pages:
           C1: configs/resources/audio/externalisation/7.1.4/7.1.4_opera_allrad.wav 
           C2: configs/resources/audio/externalisation/7.1.4/7.1.4_opera_DTS.wav 
           C3: configs/resources/audio/externalisation/7.1.4/7.1.4_opera_harpex.wav
-    - type: mushra
-      id: distCinema2
-      name: EXTERNALISATION - 7.1.4 LAYOUT
-      content: Please rate the test files from 0-100 on how similar the externalisation of the track is to the available reference.
-      showWaveform: true
-      enableLooping: true 
-      reference: configs/resources/audio/externalisation/opera_ref.wav 
-      createAnchor35: false
-      createAnchor70: false
-      stimuli:
-          C1: configs/resources/audio/externalisation/cube/opera_allrad.wav 
-          C2: configs/resources/audio/externalisation/cube/opera_DTS.wav 
-          C3: configs/resources/audio/externalisation/cube/opera_Harpex.wav
     - type: mushra
       id: ensembleCube1
       name: WIDTH - CUBE LAYOUT
