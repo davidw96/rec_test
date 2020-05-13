@@ -290,9 +290,9 @@ pages:
       createAnchor35: false
       createAnchor70: false
       stimuli:
-          C1: configs/resources/audio/pref/7.1.4/7.1.4_summertime_allrad.wav 
-          C2: configs/resources/audio/pref/7.1.4/7.1.4_summertime_DTS.wav 
-          C3: configs/resources/audio/pref/7.1.4/7.1.4_summertime_harpex.wav
+          C1: configs/resources/audio/pref/7.1.4/7.1.4_boogie_allrad.wav 
+          C2: configs/resources/audio/pref/7.1.4/7.1.4_boogie_DTS.wav 
+          C3: configs/resources/audio/pref/7.1.4/7.1.4_boogie_harpex.wav
     - type: finish
       name: Thank you
       content: Thank you for attending!
