@@ -11,19 +11,18 @@ pages:
       id: first_page
       name: Welcome
       content: >
-        Welcome to the Ambisonic Decoder Listening Test <br/>
-        There are halves to this test. Part 1 is based on tracks containing sound source characteristics <br/>
-        while part 2 will be based around more environmental characteristics. <br/>
-        Once all tests are finished, please fill ot the questinonnaire and submit the results <br/>
-        You may take a break or pull out from doing the test at any moment <br/>
+        Welcome to the Ambisonic Decoder Listening Test part 2<br/>
+        This test is based on recorded tracks and more environmental characteristics <br/>
+        Once the test is finished, please fill out the questinonnaire and submit. <br/>
+        You may take a break or pull out from doing the test at any moment. <br/>
         Thank you! <br/>
         
     - type: generic
       id: Instructions
       name: Instructions
       content: > 
-        This is the first half of the test. This half will test three different characteristics; <br/>
-        Localisation accuracy, Localisation and Apparent Source width <br/> <br/>
+        This is the second half of the test. This half will test the following characteristics; <br/>
+        Externalisation, Width, Listener envelopment, Timbre & Overall preference <br/> <br/>
         For each characteristic there will be an available reference on the left hand side of the page which you can listen to at any time. <br/>
         There will be a number of audio files for you to listen to which must be rated from 0-100 using the associated sliders. <br/>
         This rating should be based on how similar the selected audio file is to the reference file for the given characteristic. <br/>
